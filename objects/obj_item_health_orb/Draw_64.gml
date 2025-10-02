@@ -1,0 +1,1 @@
+draw_text(900, 0, "touched: " + string(ballhitwall));

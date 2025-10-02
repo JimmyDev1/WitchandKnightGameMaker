@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"State_Machine_Dino",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"State_Machine_Dino",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

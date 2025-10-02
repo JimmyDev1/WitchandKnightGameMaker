@@ -1,0 +1,18 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Floor tiles","order":2,"path":"folders/Objects/Floor tiles.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_dino_forward_detection","order":2,"path":"objects/obj_dino_forward_detection/obj_dino_forward_detection.yy",},
+    {"name":"obj_dino_platform_detection","order":3,"path":"objects/obj_dino_platform_detection/obj_dino_platform_detection.yy",},
+    {"name":"obj_dino","order":1,"path":"objects/obj_dino/obj_dino.yy",},
+    {"name":"obj_wood","order":1,"path":"objects/obj_wood/obj_wood.yy",},
+    {"name":"State_Machine_Dino","order":1,"path":"scripts/State_Machine_Dino/State_Machine_Dino.yy",},
+    {"name":"spr_enemy_dino_charge","order":3,"path":"sprites/spr_enemy_dino_charge/spr_enemy_dino_charge.yy",},
+    {"name":"spr_enemy_dino_damage","order":6,"path":"sprites/spr_enemy_dino_damage/spr_enemy_dino_damage.yy",},
+    {"name":"spr_enemy_dino_forward_detection","order":4,"path":"sprites/spr_enemy_dino_forward_detection/spr_enemy_dino_forward_detection.yy",},
+    {"name":"spr_enemy_dino_idle","order":1,"path":"sprites/spr_enemy_dino_idle/spr_enemy_dino_idle.yy",},
+    {"name":"spr_enemy_dino_platform_detection","order":5,"path":"sprites/spr_enemy_dino_platform_detection/spr_enemy_dino_platform_detection.yy",},
+    {"name":"spr_enemy_dino_walk","order":2,"path":"sprites/spr_enemy_dino_walk/spr_enemy_dino_walk.yy",},
+  ],
+}
